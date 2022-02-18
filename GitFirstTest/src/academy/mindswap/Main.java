@@ -7,5 +7,6 @@ public class Main {
         System.out.println("My first commit and push");
         System.out.println("My first change");
         System.out.println("And this my second");
+        System.out.println("Tiago Correia");
     }
 }
