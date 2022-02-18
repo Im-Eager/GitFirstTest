@@ -5,5 +5,6 @@ public class JoaoSouto {
         System.out.println("Este gajo é um campeão.");
         System.out.println("Isto é só mais um teste deste campeão");
         System.out.println("Isto é só mais um teste deste campeão");
+
     }
 }
