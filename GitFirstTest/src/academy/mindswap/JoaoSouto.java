@@ -7,6 +7,8 @@ public class JoaoSouto {
         System.out.println("Isto é só mais um teste deste campeão");
         System.out.println("another one");
         System.out.println("doisum");
+        System.out.println("Ass: Tiagos");
+        System.out.println("umdois");
 
     }
 }
